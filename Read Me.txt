@@ -1,0 +1,9 @@
+
+
+1. Doc2Vec code has been taken from the link.
+https://linanqiu.github.io/2015/10/07/word2vec-sentiment/
+
+2. You need to download Reviews_Books_5.json.gz from this link
+http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Books_5.json.gz
+
+Click on the link to download the file.
